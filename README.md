@@ -1,4 +1,5 @@
 # COGS108_Repo
-My first repository on Github, for COGS 108
+My first repository on Github.
+All for COGS 108 💟
 
-I love 🍉 yummy
+I love 🍉 so yummy
