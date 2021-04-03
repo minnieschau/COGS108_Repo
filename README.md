@@ -1,2 +1,4 @@
 # COGS108_Repo
-Repository for COGS 108
+My first repository on Github, for COGS 108
+
+I love 🍉 yummy
